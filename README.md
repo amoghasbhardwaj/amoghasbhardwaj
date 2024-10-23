@@ -8,27 +8,28 @@
 <h3 align="center">🏆 Achievements</h3>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amoghasbhardwaj" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=amoghasbhardwaj&column=3&margin-w=15&margin-h=15&theme=dracula" alt="Trophies" />
   </a>
 </p>
 
 ---
 
 <h3 align="left">🔭 Current Projects</h3>
-<p>- I’m currently working on [My Website](https://amoghs.netlify.app/)</p>
+<p>- I’m currently working on <a href="https://amoghs.netlify.app/" target="_blank">My Website</a></p>
 
 <h3 align="left">🌱 Learning</h3>
 <p>- Next.js, GSAP, GCP, and expanding AIML skills</p>
+<p>- NLP, RAG, and Transformer models</p>
 
 <h3 align="left">🤝 Collaboration</h3>
-<p>- I’m looking to collaborate on **AI Projects**</p>
-<p>- I’m seeking help with **Game Development**</p>
+<p>- I’m looking to collaborate on <b>AI Projects</b></p>
+<p>- I’m seeking help with <b>Game Development</b></p>
 
 ---
 
 <h3 align="left">💻 Projects & Articles</h3>
-- All of my projects are available at [My Portfolio](https://amoghs.netlify.app/)
-- I regularly write articles on [Medium](https://medium.com/@amoghsbharadwaj)
+- All of my projects are available at <a href="https://amoghs.netlify.app/" target="_blank">My Portfolio</a>  
+- I regularly write articles on <a href="https://medium.com/@amoghsbharadwaj" target="_blank">Medium</a>
 
 <h3 align="left">💬 Ask me about:</h3>
 <p>- Generative AI, Python, React</p>
@@ -69,24 +70,20 @@
 
 <h4>🌐 Full Stack Development:</h4>
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-  <a href="https://www.django.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/></a>
+  React, Next.js, HTML, TailwindCSS, CSS, JavaScript, TypeScript, Django, Docker, Kubernetes, MongoDB, PostgreSQL
 </p>
 
+<h4>🔁 CI/CD Pipeline:</h4>
+<p align="left">Jenkins, Git, Gerrit</p>
+
 <h4>📱 Mobile Development:</h4>
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-</p>
+<p align="left">Kotlin, Java, Swift, Android Studio, Xcode</p>
+
+<h4>🎨 Animation:</h4>
+<p align="left">Blender, Unity</p>
+
+<h4>☁️ Cloud:</h4>
+<p align="left">GCP, AWS</p>
 
 ---
 
