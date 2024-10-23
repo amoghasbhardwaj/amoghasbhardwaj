@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amoghasbhardwaj&" alt="amoghasbhardwaj" /></p>
 
-<p>[![An image of @amoghasbhardwaj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amoghasbhardwaj)](https://holopin.io/@amoghasbhardwaj)</p>
+[![An image of @amoghasbhardwaj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amoghasbhardwaj)](https://holopin.io/@amoghasbhardwaj)
