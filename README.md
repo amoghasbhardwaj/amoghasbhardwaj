@@ -109,6 +109,12 @@
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" height="40"/>
 </p>
 
+<h4 align="left">Project Management</h4>
+<p align="left">
+  <img src="https://w7.pngwing.com/pngs/992/738/png-transparent-jira-hd-logo-thumbnail.png" alt="Jira" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="40" height="40"/>
+</p>
+
 ---
 
 <h3 align="left">📊 Stats:</h3>
