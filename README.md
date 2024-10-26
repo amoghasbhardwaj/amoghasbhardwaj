@@ -18,12 +18,12 @@
 <p>- I’m currently working on <a href="https://amoghs.netlify.app/" target="_blank">My Website</a></p>
 
 <h3 align="left">🌱 Learning</h3>
-<p>- Next.js, GSAP, GCP, and expanding AIML skills</p>
+<p>- Next.js, Kotlin, Swift</p>
 <p>- NLP, RAG, and Transformer models</p>
 
 <h3 align="left">🤝 Collaboration</h3>
 <p>- I’m looking to collaborate on <b>AI Projects</b></p>
-<p>- I’m seeking help with <b>Game Development</b></p>
+<p>- I’m seeking help with <b>Mobile App Development</b></p>
 
 ---
 
@@ -86,7 +86,7 @@
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gerritcodereview/gerritcodereview-icon.svg" alt="Gerrit" width="40" height="40"/>
+  <img src="https://www.gerritforge.com/images/content/slide1.png" alt="Gerrit" width="40" height="40"/>
 </p>
 
 <h4>📱 Mobile Development:</h4>
@@ -99,7 +99,7 @@
 
 <h4>🎨 Animation:</h4>
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="Blender" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
 </p>
 
@@ -112,18 +112,17 @@
 ---
 
 <h3 align="left">📊 Stats:</h3>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amoghasbhardwaj&show_icons=true&locale=en&layout=compact" alt="Top languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amoghasbhardwaj&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amoghasbhardwaj&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amoghasbhardwaj&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amoghasbhardwaj&" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoghasbhardwaj&theme=dracula" alt="Streak Stats" />
 </p>
-
 ---
 
 <h3 align="center">🎖 Holopin Badges:</h3>
