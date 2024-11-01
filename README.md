@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer and AIML enthusiast</h3>
 
 
+![Donkey Kong](./Images/donkeykong.gif)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amoghasbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
