@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amogh</h1>
 <h3 align="center">A passionate frontend developer and AIML enthusiast</h3>
+![dh28uuh-2afd5ded-7cd7-4b17-a3ef-d3fa0ab6c364](https://github.com/user-attachments/assets/e11adb52-f216-4475-adde-893385a57d01)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amoghasbhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
