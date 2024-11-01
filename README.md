@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amogh</h1>
 <h3 align="center">A passionate frontend developer and AIML enthusiast</h3>
-![dh28uuh-2afd5ded-7cd7-4b17-a3ef-d3fa0ab6c364](https://github.com/user-attachments/assets/e11adb52-f216-4475-adde-893385a57d01)
+
+
+![Donkey Kong](./Images/donkeykong.gif)
 
 
 <p align="center">
