@@ -132,8 +132,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoghasbhardwaj&theme=dracula" alt="Streak Stats" />
 </p>
----
-
+<p align="center">
+  <a href="https://app.daily.dev/babayaga16"><img src="https://api.daily.dev/devcards/v2/GFjh6FZrpCUwX3iLhcvaW.png?type=wide&r=wxv" width="652" alt="Amogh S's Dev Card"/></a>
+</p>
 <h3 align="center">🎖 Holopin Badges:</h3>
 <p align="center">
   <a href="https://holopin.io/@amoghasbhardwaj">
