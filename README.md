@@ -135,6 +135,10 @@
 <p align="center">
   <a href="https://app.daily.dev/babayaga16"><img src="https://api.daily.dev/devcards/v2/GFjh6FZrpCUwX3iLhcvaW.png?type=wide&r=wxv" width="652" alt="Amogh S's Dev Card"/></a>
 </p>
+<p align="center">
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/675476b9ecc889bb0d22ffa5?variant=dark&roadmaps=ai-engineer" alt="roadmap.sh"/></a>
+</p>
+
 <h3 align="center">🎖 Holopin Badges:</h3>
 <p align="center">
   <a href="https://holopin.io/@amoghasbhardwaj">
