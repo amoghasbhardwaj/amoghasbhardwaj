@@ -21,12 +21,12 @@
 <p>- I’m currently working on <a href="https://amoghs.netlify.app/" target="_blank">My Website</a></p>
 
 <h3 align="left">🌱 Learning</h3>
-<p>- Next.js, Kotlin, Swift</p>
-<p>- NLP, RAG, and Transformer models</p>
+<p>- Golang</p>
+<p>- Finetuning LLms</p>
 
 <h3 align="left">🤝 Collaboration</h3>
-<p>- I’m looking to collaborate on <b>AI Projects</b></p>
-<p>- I’m seeking help with <b>Mobile App Development</b></p>
+<p>- I’m looking to collaborate on <b>Golang Projects</b></p>
+<p>- I’m seeking help with <b>Generative AI</b></p>
 
 ---
 
@@ -35,7 +35,7 @@
 - I regularly write articles on <a href="https://medium.com/@amoghsbharadwaj" target="_blank">Medium</a>
 
 <h3 align="left">💬 Ask me about:</h3>
-<p>- Generative AI, Python, React</p>
+<p>- Generative AI, Python, Golang</p>
 
 <h3 align="left">⚡ Fun fact:</h3>
 <p>- I’m a cinephile.</p>
