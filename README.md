@@ -64,7 +64,7 @@
 <h4>🚀 Languages:</h4>
 <p align="left">
   <!-- Go (Gopher) -->
-  <img src="https://github.com/egonelbre/gophers/raw/master/.thumb/gopher.png" alt="Golang" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/animation/gopher-dance-long-3x.png" alt="Golang" width="45" height="45"/>
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <!-- JavaScript -->
@@ -80,13 +80,13 @@
   <!-- Django -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   <!-- Flask -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="50" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="40" height="40"/>
   <!-- Bootstrap -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <!-- Gin Gonic -->
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin Gonic" width="40" height="40"/>
   <!-- Gorilla Mux -->
-  <img src="https://raw.githubusercontent.com/gorilla/mux/master/.github/logo.png" alt="Gorilla Mux" width="80" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gorilla-logo.png" alt="Gorilla Mux" width="40" height="40"/>
 </p>
 <h4>⚙️ Tools:</h4>
 <p align="left">
