@@ -80,13 +80,13 @@
   <!-- Django -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
   <!-- Flask -->
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="Flask" width="50" height="40"/>
   <!-- Bootstrap -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <!-- Gin Gonic -->
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin Gonic" width="40" height="40"/>
   <!-- Gorilla Mux -->
-  <img src="https://raw.githubusercontent.com/gorilla/mux/master/assets/mux-logo.png" alt="Gorilla Mux" width="80" height="40"/>
+  <img src="https://raw.githubusercontent.com/gorilla/mux/master/.github/logo.png" alt="Gorilla Mux" width="80" height="40"/>
 </p>
 <h4>⚙️ Tools:</h4>
 <p align="left">
