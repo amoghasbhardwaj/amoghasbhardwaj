@@ -64,7 +64,7 @@
 <h4>🚀 Languages:</h4>
 <p align="left">
   <!-- Go (Gopher) -->
-  <img src="https://github.com/MariaLetta/free-gophers-pack/blob/master/goroutines/svg/8.svg" alt="Golang" width="45" height="45"/>
+  <img src="https://github.com/egonelbre/gophers/blob/master/vector/computer/gamer.svg" alt="Golang" width="45" height="45"/>
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <!-- JavaScript -->
@@ -86,7 +86,7 @@
   <!-- Gin Gonic -->
   <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="Gin Gonic" width="40" height="40"/>
   <!-- Gorilla Mux -->
-  ![Gorilla Mux](./Images/gorilla_mux.png)
+ <img src="./Images/gorilla_mux.png" alt="Gorilla Mux" width="40" height="40"/>
 </p>
 <h4>⚙️ Tools:</h4>
 <p align="left">
