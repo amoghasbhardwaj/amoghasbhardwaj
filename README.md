@@ -7,30 +7,25 @@
   <img src="https://komarev.com/ghpvc/?username=amoghasbhardwaj&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="center">🏆 Achievements</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amoghasbhardwaj&column=3&margin-w=15&margin-h=15&theme=dracula" />
-</p>
-
 ---
 
 <h3 align="left">🚀 What I'm Working On</h3>
 
 <p>
 <b>🔭 Current Project:</b><br/>
-• <a href="https://github.com/amoghasbhardwaj/Eloquence" target="_blank"><b>Eloquence</b></a> — A minimal, expressive programming language focused on clarity and intent-driven syntax.
+• <a href="https://github.com/amoghasbhardwaj/Eloquence" target="_blank"><b>Eloquence</b></a> — a minimal, expressive programming language focused on clarity and intent-driven syntax.
 </p>
 
 <p>
 <b>🌱 Currently Learning:</b><br/>
-• Golang (advanced internals & performance)<br/>
+• Golang (internals, performance, concurrency)<br/>
 • Fine-tuning Large Language Models
 </p>
 
 <p>
 <b>🤝 Open to Collaboration:</b><br/>
 • Backend & systems projects in <b>Golang</b><br/>
-• Research / hands-on work in <b>Generative AI</b>
+• Research & applied work in <b>Generative AI</b>
 </p>
 
 ---
@@ -38,8 +33,8 @@
 <h3 align="left">💻 Projects & Writing</h3>
 
 <p>
-• Explore all my projects at <a href="https://amoghs.netlify.app/" target="_blank">My Portfolio</a><br/>
-• I regularly write about tech & engineering on <a href="https://medium.com/@amoghsbharadwaj" target="_blank">Medium</a>
+• All of my projects are available at <a href="https://amoghs.netlify.app/" target="_blank">My Portfolio</a><br/>
+• I regularly write about engineering & tech on <a href="https://medium.com/@amoghsbharadwaj" target="_blank">Medium</a>
 </p>
 
 <p>
@@ -75,15 +70,13 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=amoghasbhardwaj&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=amoghasbhardwaj&layout=compact&theme=dracula&hide_border=true&cache_seconds=21600" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=amoghasbhardwaj&show_icons=true&theme=dracula&hide_border=true&custom_title=Amogh's%20GitHub%20Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoghasbhardwaj&theme=dracula&hide_border=true" />
+  <a href="https://github.com/amoghasbhardwaj">
+    <img src="https://github-readme-stats.vercel.app/api?username=amoghasbhardwaj&theme=dracula&show_icons=true&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
